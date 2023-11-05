@@ -1,0 +1,50 @@
+collectionXoffset: 20
+collectionYoffset: 0
+collectionZoffset: 20
+xObjects:
+  - name: Seat
+    type: cylinder
+    color: white
+    width: 7
+    length: 7
+    height: 1
+    xoffset: 0
+    yoffset: 7
+    zoffset: 0
+  # legs
+  - name: Leg1
+    type: cylinder
+    color: white
+    width: 1
+    length: 1
+    height: 5
+    xoffset: 2
+    yoffset: 3
+    zoffset: 2
+  - name: Leg2
+    type: cylinder
+    color: white
+    width: 1
+    length: 1
+    height: 5
+    xoffset: 2
+    yoffset: 3
+    zoffset: -2
+  - name: Leg3
+    type: cylinder
+    color: white
+    width: 1
+    length: 1
+    height: 5
+    xoffset: -2
+    yoffset: 3
+    zoffset: 2
+  - name: Leg4
+    type: cylinder
+    color: white
+    width: 1
+    length: 1
+    height: 5
+    xoffset: -2
+    yoffset: 3
+    zoffset: -2

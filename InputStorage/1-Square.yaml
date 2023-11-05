@@ -1,0 +1,7 @@
+xObjects:
+  - name: FirstCube
+    type: cube
+    color: blue
+    width: 3
+    length: 20
+    height: 3

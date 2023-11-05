@@ -1,0 +1,59 @@
+collectionXoffset: 10
+collectionYoffset: 0
+collectionZoffset: 10
+xObjects:
+  - name: Ground
+    type: plane
+    color: green
+    width: 10
+    length: 10
+    height: 1
+    xoffset: 0
+    yoffset: 0
+    zoffset: 0
+  - name: TableTop
+    type: cube
+    color: grey
+    width: 32
+    length: 14
+    height: 2
+    xoffset: 0
+    yoffset: 12
+    zoffset: 0
+  # Legs
+  - name: TableLeg1
+    type: cube
+    color: grey
+    width: 2
+    length: 2
+    height: 12
+    xoffset: 15
+    yoffset: 6
+    zoffset: 5
+  - name: TableLeg2
+    type: cube
+    color: grey
+    width: 2
+    length: 2
+    height: 12
+    xoffset: -15
+    yoffset: 6
+    zoffset: 5
+  - name: TableLeg3
+    type: cube
+    color: grey
+    width: 2
+    length: 2
+    height: 12
+    xoffset: 15
+    yoffset: 6
+    zoffset: -5
+  - name: TableLeg4
+    type: cube
+    color: grey
+    width: 2
+    length: 2
+    height: 12
+    xoffset: -15
+    yoffset: 6
+    zoffset: -5
